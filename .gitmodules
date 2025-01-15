@@ -1,0 +1,15 @@
+[submodule "rucbase"]
+	path = rucbase
+	url = git@github.com:Dawnfz-Lenfeng/rucbase.git
+[submodule "mips-cpu"]
+	path = mips-cpu
+	url = git@github.com:Dawnfz-Lenfeng/mips-cpu.git
+[submodule "blockchain"]
+	path = blockchain
+	url = git@github.com:Dawnfz-Lenfeng/blockchain.git
+[submodule "deep-tiaotiao"]
+	path = deep-tiaotiao
+	url = git@github.com:Dawnfz-Lenfeng/deep-tiaotiao.git
+[submodule "regression"]
+	path = regression
+	url = git@github.com:Dawnfz-Lenfeng/regression-lab.git
